@@ -1,0 +1,12 @@
+{"L":"INFO","T":"2022-11-27T00:50:03.466Z","N":"miner","C":"dero-miner/miner.go:138","M":"DERO Stargate HE AstroBWT miner : It is an alpha version, use it for testing/evaluations purpose only."}
+{"L":"INFO","T":"2022-11-27T00:50:03.466Z","N":"miner","C":"dero-miner/miner.go:139","M":"Copyright 2017-2021 DERO Project. All rights reserved."}
+{"L":"INFO","T":"2022-11-27T00:50:03.466Z","N":"miner","C":"dero-miner/miner.go:140","M":"","OS":"linux","ARCH":"amd64","GOMAXPROCS":4}
+{"L":"INFO","T":"2022-11-27T00:50:03.466Z","N":"miner","C":"dero-miner/miner.go:141","M":"","Version":"3.5.2-114.DEROHE.STARGATE+01102022"}
+{"L":"DEBUG","T":"2022-11-27T00:50:03.466Z","N":"miner","C":"dero-miner/miner.go:143","M":"","Arguments":{"--bench":false,"--daemon-rpc-address":"community-pools.mysrv.cloud:10300","--debug":true,"--help":false,"--mining-threads":"4","--testnet":false,"--version":false,"--wallet-address":"deroi1qyr8wnk9aw9lel0xcufdj98cqtd3lc5y84nhl679nm3wknaz0ad6xq9pvfz92xn034vesareqsu"}}
+{"L":"INFO","T":"2022-11-27T00:50:03.466Z","N":"miner","C":"dero-miner/miner.go:147","M":"","MODE":"mainnet"}
+{"L":"INFO","T":"2022-11-27T00:50:03.466Z","N":"miner","C":"dero-miner/miner.go:205","M":"System will mine to \"deroi1qyr8wnk9aw9lel0xcufdj98cqtd3lc5y84nhl679nm3wknaz0ad6xq9pvfz92xn034vesareqsu\" with 4 threads. Good Luck!!"}
+{"L":"INFO","T":"2022-11-27T00:50:03.467Z","N":"miner","C":"dero-miner/miner.go:407","M":"connecting to ","url":"wss://community-pools.mysrv.cloud:10300/ws/deroi1qyr8wnk9aw9lel0xcufdj98cqtd3lc5y84nhl679nm3wknaz0ad6xq9pvfz92xn034vesareqsu"}
+{"L":"DEBUG","T":"2022-11-27T00:50:10.993Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"15000","height":1270955}
+{"L":"DEBUG","T":"2022-11-27T00:50:42.973Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"15000","height":1270957}
+{"L":"DEBUG","T":"2022-11-27T00:51:18.066Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"59943","height":1270959}
+{"L":"DEBUG","T":"2022-11-27T00:52:19.627Z","N":"miner","C":"dero-miner/miner.go:528","M":"Successfully found DERO miniblock (going to submit)","difficulty":"119746","height":1270963}
